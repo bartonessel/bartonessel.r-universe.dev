@@ -1,6 +1,7 @@
 [
   {
     "package": "pathlab",
-    "url": "https://github.com/bartonessel/pathlab"
+    "url": "https://github.com/bartonessel/pathlab",
+    "branch": "main"
   }
 ]
